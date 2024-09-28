@@ -28,7 +28,7 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        border-radius: 1.5rem;
+        border-radius: 1rem;
         padding: 0.5rem;
         max-width: 91%;
         border: 1px solid;
@@ -180,7 +180,7 @@
             display: flex;
             flex-direction: column;
             justify-content: center;
-            border-radius: 1.5rem;
+            border-radius: 1rem;
             padding: 0.5rem;
             max-width: 83%;
             border: 1px solid;
@@ -335,7 +335,7 @@
                 display: flex;
                 flex-direction: column;
                 justify-content: center;
-                border-radius: 1.5rem;
+                border-radius: 1rem;
                 padding: 0.5rem;
                 max-width: 52%;
                 border: 1px solid;
@@ -656,7 +656,7 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        border-radius: 1.5rem;
+        border-radius: 1rem;
         padding: 0.5rem;
         max-width: 70%;
         border: 1px solid;
